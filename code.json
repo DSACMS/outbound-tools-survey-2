@@ -2,16 +2,16 @@
   "name": "outbound-tools-survey-2",
   "version": "",
   "description": "Form to evaluate documentation clarity and user confidence in using checklist areas for repository reparation.",
-  "longDescription": "A web form where project teams fill out information about their project and creates a completed code.json for local download to add to repositories.",
+  "longDescription": "A survey where project teams fill out information about their experience using the OSPO outbound review checklist and repo-scaffolder for repository hygiene",
   "status": "Production",
   "permissions": {
-    "license": [
+    "licenses": [
       {
-        "name": "CC0 1.0 Universal",
+        "name": "CC0-1.0",
         "URL": "https://github.com/DSACMS/codejson-generator/blob/main/LICENSE"
       }
     ],
-    "usageType": "openSource",
+    "usageType": ["openSource"],
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
@@ -67,15 +67,15 @@
   "localisation": false,
   "repositoryType": "website",
   "userInput": false,
-  "fismaLevel": "Low",
+  "fismaLevel": "low",
   "group": "CMS/OA/DSAC",
   "projects": [],
   "systems": [],
   "subsetInHealthcare": [
-    "Operational"
+    "operational"
   ],
   "userType": [
-    "Government"
+    "government"
   ],
   "maturityModelTier": 3
 }
