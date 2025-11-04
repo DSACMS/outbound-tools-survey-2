@@ -69,7 +69,7 @@
   "userInput": false,
   "fismaLevel": "low",
   "group": "CMS/OA/DSAC",
-  "projects": [],
+  "projects": ["outbound"],
   "systems": [],
   "subsetInHealthcare": [
     "operational"
