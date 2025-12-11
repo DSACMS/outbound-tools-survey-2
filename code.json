@@ -58,7 +58,8 @@
   "tags": [
     "codejson",
     "compliance",
-    "OSPO"
+    "OSPO",
+    "user-testing"
   ],
   "contact": {
     "email": "opensource@cms.hhs.gov",
@@ -72,7 +73,7 @@
   "fismaLevel": "low",
   "group": "CMS/OA/DSAC",
   "projects": [
-    "outbound"
+    "ospo-outbound"
   ],
   "systems": [],
   "subsetInHealthcare": [
